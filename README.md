@@ -1,4 +1,4 @@
-<img src="./ГОТОВО2.png" width="100%" height="100%px" />
+<img src="./ГОТОВО2.png" width="100%" height="100%" />
 
 
 
@@ -9,12 +9,12 @@
 ### ⤷ Enjoy with it 
 
 
-<code style="color:#00ff2b">
-    hello<br>
-    The Matrix is you<br>
-    Follow the white rabbit...<br>
-    Knok knok.<br>
-</code>
+``` 
+    hello
+    The Matrix has you
+    Follow the white rabbit...
+    Knok knok.
+```
 
 
 
