@@ -1,3 +1,3 @@
-### Hi there 👋
+### gGodlik
 
-![mygif](Qzfcp3TcaN.gif)
+[<img src="./kFNfw0rWko.gif" width="100%" height="250px" />]
