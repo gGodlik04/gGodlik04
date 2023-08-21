@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![mygif](./QzdQzfcp3TcaN.mp4)
+![mygif](https://recordit.co/Qzfcp3TcaN)
