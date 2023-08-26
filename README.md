@@ -51,7 +51,7 @@
 <img src="https://img.shields.io/badge/ReactQuery-36ba01?logo=React&logoColor=white&style=for-the-badge" alt="JS">
 <img src="https://img.shields.io/badge/React Route-36ba01?logo=React Router&logoColor=white&style=for-the-badge" alt="=React Route">
 <img src="https://img.shields.io/badge/Axios-36ba01?logo=Axios&logoColor=white&style=for-the-badge" alt="Axios">
-<img src="https://img.shields.io/badge/NODEJS-36ba01?logo=NODEJS&logoColor=white&style=for-the-badge" alt="ONDEJS">  
+<img src="https://img.shields.io/badge/NODEJS-36ba01?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="ONDEJS">  
 <img src="https://img.shields.io/badge/GSAP-36ba01?logo=greensock&logoColor=white&style=for-the-badge" alt="GSAP">  
 
 ### More tools
