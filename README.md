@@ -56,7 +56,7 @@
 
 ### More tools
 
-<img src="https://img.shields.io/badge/html5-00ff2b?logo=Docker&logoColor=white&style=for-the-badge" alt="docker">
+<img src="https://img.shields.io/badge/Docker-00ff2b?logo=Docker&logoColor=white&style=for-the-badge" alt="docker">
 <img src="https://img.shields.io/badge/html5-00ff2b?logo=html5&logoColor=white&style=for-the-badge" alt="JS">
 <img src="https://img.shields.io/badge/css3-00ff2b?logo=css3&logoColor=white&style=for-the-badge" alt="css3">
 <img src="https://img.shields.io/badge/sass-00ff2b?logo=sass&logoColor=white&style=for-the-badge" alt="sass">
