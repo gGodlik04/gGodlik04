@@ -56,10 +56,13 @@
 
 ### More tools
 
+<img src="https://img.shields.io/badge/Vite-00ff2b?logo=Vite&logoColor=white&style=for-the-badge" alt="Vite">
+<img src="https://img.shields.io/badge/Webpack-00ff2b?logo=Webpack&logoColor=white&style=for-the-badge" alt="Webpack">
 <img src="https://img.shields.io/badge/Docker-00ff2b?logo=Docker&logoColor=white&style=for-the-badge" alt="docker">
 <img src="https://img.shields.io/badge/html5-00ff2b?logo=html5&logoColor=white&style=for-the-badge" alt="JS">
 <img src="https://img.shields.io/badge/css3-00ff2b?logo=css3&logoColor=white&style=for-the-badge" alt="css3">
 <img src="https://img.shields.io/badge/sass-00ff2b?logo=sass&logoColor=white&style=for-the-badge" alt="sass">
+<img src="https://img.shields.io/badge/composer-00ff2b?logo=composer&logoColor=white&style=for-the-badge" alt="composer">
 <img src="https://img.shields.io/badge/Bootstrap-00ff2b?logo=Bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap">
 <img src="https://img.shields.io/badge/Figma-00ff2b?logo=Figma&logoColor=white&style=for-the-badge" alt="Figma">
 <img src="https://img.shields.io/badge/PHP-00ff2b?logo=PHP&logoColor=white&style=for-the-badge" alt="PHP">
