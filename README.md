@@ -58,6 +58,7 @@
 ### More tools
 
 <img src="https://img.shields.io/badge/Vite-00ff2b?logo=Vite&logoColor=white&style=for-the-badge" alt="Vite">
+<img src="https://img.shields.io/badge/yarn-00ff2b?logo=yarn&logoColor=white&style=for-the-badge" alt="Yarn">
 <img src="https://img.shields.io/badge/Webpack-00ff2b?logo=Webpack&logoColor=white&style=for-the-badge" alt="Webpack">
 <img src="https://img.shields.io/badge/Docker-00ff2b?logo=Docker&logoColor=white&style=for-the-badge" alt="docker">
 <img src="https://img.shields.io/badge/html5-00ff2b?logo=html5&logoColor=white&style=for-the-badge" alt="JS">
