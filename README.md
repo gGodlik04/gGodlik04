@@ -48,9 +48,12 @@
 <img src="https://img.shields.io/badge/ReduxToolkit-36ba01?logo=Redux&logoColor=white&style=for-the-badge" alt="Redux">
 <img src="https://img.shields.io/badge/ReactQuery-36ba01?logo=React&logoColor=white&style=for-the-badge" alt="JS">
 <img src="https://img.shields.io/badge/React Route-36ba01?logo=React Router&logoColor=white&style=for-the-badge" alt="=React Route">
+<img src="https://img.shields.io/badge/Vue.js-36ba01?logo=Vue.js&logoColor=white&style=for-the-badge" alt="=Vue.js">
+<img src="https://img.shields.io/badge/Vuex-36ba01?logo=Vuex&logoColor=white&style=for-the-badge" alt="=Vuex">
 <img src="https://img.shields.io/badge/Axios-36ba01?logo=Axios&logoColor=white&style=for-the-badge" alt="Axios">
 <img src="https://img.shields.io/badge/NODEJS-36ba01?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="ONDEJS">  
 <img src="https://img.shields.io/badge/GSAP-36ba01?logo=greensock&logoColor=white&style=for-the-badge" alt="GSAP">  
+<img src="https://img.shields.io/badge/jquery-36ba01?logo=jquery&logoColor=white&style=for-the-badge" alt="jquery">  
 
 ### More tools
 
@@ -71,6 +74,12 @@
 <img src="https://img.shields.io/badge/MICROSOFTACCESS-00ff2b?logo=MICROSOFTACCESS&logoColor=white&style=for-the-badge" alt="MICROSOFTACCESS">
 <img src="https://img.shields.io/badge/csharp-00ff2b?logo=csharp&logoColor=white&style=for-the-badge" alt="MICROSOFTACCESS">
 <img src="https://img.shields.io/badge/winforms-00ff2b?logo=winforms&logoColor=white&style=for-the-badge" alt="MICROSOFTACCESS">
+
+<hr>
+
+<img src="https://img.shields.io/badge/gitlab-00ff2b?logo=gitlab&logoColor=white&style=for-the-badge" alt="gitlab">
+<img src="https://img.shields.io/badge/jira-00ff2b?logo=jira&logoColor=white&style=for-the-badge" alt="jira">
+<img src="https://img.shields.io/badge/confluence-00ff2b?logo=confluence&logoColor=white&style=for-the-badge" alt="confluence">
 
 <hr>
 
