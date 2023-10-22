@@ -1,7 +1,5 @@
 <img src="./mm.jpg" width="100%" height="100%" />
 
-ГОТОВО2.png
-mm.jpg
 <hr>
 
 # Frontend  Developer 
